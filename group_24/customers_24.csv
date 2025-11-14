@@ -1,0 +1,1512 @@
+Customer id,Gender,Age,Payment method
+C00001,M,16,Credit Card
+C00002,F,30,Credit Card
+C00003,M,47,Mobile Payment
+C00004,F,44,Credit Card
+C00005,M,60,Cash
+C00006,M,45,Mobile Payment
+C00007,M,52,Mobile Payment
+C00008,M,35,Mobile Payment
+C00009,M,55,Mobile Payment
+C00010,M,68,Credit Card
+C00011,F,73,Mobile Payment
+C00012,F,19,Cash
+C00013,M,63,Credit Card
+C00014,M,30,Cash
+C00015,F,52,Credit Card
+C00016,F,35,Credit Card
+C00017,F,31,Credit Card
+C00018,M,31,Mobile Payment
+C00019,F,26,Mobile Payment
+C00020,M,46,Cash
+C00021,F,17,Mobile Payment
+C00022,F,40,Mobile Payment
+C00023,M,67,Cash
+C00024,F,73,Cash
+C00025,F,20,Cash
+C00026,F,59,Cash
+C00027,F,32,Credit Card
+C00028,F,70,Cash
+C00029,F,47,Cash
+C00030,M,29,Credit Card
+C00031,M,75,Mobile Payment
+C00032,M,44,Cash
+C00033,M,27,Cash
+C00034,M,77,Mobile Payment
+C00035,M,55,Cash
+C00036,F,32,Mobile Payment
+C00037,M,43,Mobile Payment
+C00038,M,40,Credit Card
+C00039,M,21,Credit Card
+C00040,M,76,Cash
+C00041,M,29,Credit Card
+C00042,F,52,Cash
+C00043,M,21,Mobile Payment
+C00044,M,72,Cash
+C00045,M,44,Credit Card
+C00046,M,18,Mobile Payment
+C00047,M,51,Credit Card
+C00048,F,16,Cash
+C00049,M,75,Credit Card
+C00050,F,59,Credit Card
+C00051,F,47,Credit Card
+C00052,M,20,Credit Card
+C00053,M,72,Mobile Payment
+C00054,F,76,Mobile Payment
+C00055,F,50,Cash
+C00056,M,34,Cash
+C00057,F,55,Mobile Payment
+C00058,F,56,Mobile Payment
+C00059,F,21,Mobile Payment
+C00060,F,46,Credit Card
+C00061,F,42,Cash
+C00062,M,24,Mobile Payment
+C00063,M,69,Cash
+C00064,F,56,Mobile Payment
+C00065,F,32,Credit Card
+C00066,M,27,Cash
+C00067,F,59,Cash
+C00068,M,69,Mobile Payment
+C00069,F,43,Cash
+C00070,F,26,Mobile Payment
+C00071,M,31,Cash
+C00072,F,59,Mobile Payment
+C00073,F,73,Mobile Payment
+C00074,F,18,Cash
+C00075,M,30,Credit Card
+C00076,F,53,Mobile Payment
+C00077,M,38,Credit Card
+C00078,M,58,Credit Card
+C00079,M,51,Credit Card
+C00080,F,59,Cash
+C00081,F,50,Credit Card
+C00082,F,16,Credit Card
+C00083,M,26,Cash
+C00084,F,59,Cash
+C00085,F,39,Cash
+C00086,M,68,Mobile Payment
+C00087,M,69,Cash
+C00088,M,56,Cash
+C00089,M,56,Credit Card
+C00090,F,64,Mobile Payment
+C00091,M,56,Cash
+C00092,M,44,Mobile Payment
+C00093,M,77,Credit Card
+C00094,M,73,Cash
+C00095,M,64,Credit Card
+C00096,F,57,Credit Card
+C00097,M,54,Credit Card
+C00098,M,40,Cash
+C00099,F,65,Credit Card
+C00100,M,16,Credit Card
+C00101,M,33,Mobile Payment
+C00102,F,59,Mobile Payment
+C00103,F,38,Mobile Payment
+C00104,M,61,Mobile Payment
+C00105,M,17,Mobile Payment
+C00106,F,60,Mobile Payment
+C00107,M,47,Credit Card
+C00108,F,31,Credit Card
+C00109,M,75,Credit Card
+C00110,M,43,Mobile Payment
+C00111,F,22,Credit Card
+C00112,M,40,Credit Card
+C00113,M,63,Cash
+C00114,M,35,Cash
+C00115,M,77,Credit Card
+C00116,M,38,Cash
+C00117,M,40,Cash
+C00118,M,32,Mobile Payment
+C00119,M,74,Credit Card
+C00120,F,56,Cash
+C00121,M,48,Credit Card
+C00122,M,55,Mobile Payment
+C00123,M,46,Mobile Payment
+C00124,F,53,Credit Card
+C00125,F,74,Cash
+C00126,F,61,Cash
+C00127,F,65,Mobile Payment
+C00128,F,33,Credit Card
+C00129,M,26,Credit Card
+C00130,M,63,Credit Card
+C00131,F,51,Credit Card
+C00132,M,49,Credit Card
+C00133,M,45,Mobile Payment
+C00134,M,63,Credit Card
+C00135,M,44,Credit Card
+C00136,M,65,Cash
+C00137,F,55,Credit Card
+C00138,M,19,Credit Card
+C00139,M,76,Cash
+C00140,F,71,Credit Card
+C00141,F,29,Credit Card
+C00142,M,19,Cash
+C00143,F,20,Mobile Payment
+C00144,F,25,Cash
+C00145,M,56,Mobile Payment
+C00146,M,69,Cash
+C00147,M,37,Cash
+C00148,M,44,Mobile Payment
+C00149,M,52,Mobile Payment
+C00150,M,31,Cash
+C00151,F,42,Mobile Payment
+C00152,F,24,Mobile Payment
+C00153,M,73,Cash
+C00154,M,36,Credit Card
+C00155,F,34,Cash
+C00156,F,37,Mobile Payment
+C00157,F,33,Mobile Payment
+C00158,M,61,Cash
+C00159,F,27,Credit Card
+C00160,M,74,Cash
+C00161,F,48,Credit Card
+C00162,F,20,Mobile Payment
+C00163,M,60,Cash
+C00164,F,20,Credit Card
+C00165,M,61,Cash
+C00166,F,46,Credit Card
+C00167,M,30,Mobile Payment
+C00168,M,22,Mobile Payment
+C00169,M,16,Cash
+C00170,M,75,Mobile Payment
+C00171,M,43,Credit Card
+C00172,F,73,Cash
+C00173,M,59,Credit Card
+C00174,M,53,Cash
+C00175,F,52,Mobile Payment
+C00176,M,71,Credit Card
+C00177,M,17,Mobile Payment
+C00178,M,49,Cash
+C00179,M,58,Mobile Payment
+C00180,F,27,Mobile Payment
+C00181,F,32,Cash
+C00182,F,48,Credit Card
+C00183,M,76,Cash
+C00184,M,16,Cash
+C00185,M,16,Cash
+C00186,F,65,Mobile Payment
+C00187,M,55,Mobile Payment
+C00188,F,29,Cash
+C00189,F,17,Cash
+C00190,M,22,Mobile Payment
+C00191,F,52,Mobile Payment
+C00192,F,24,Credit Card
+C00193,M,21,Cash
+C00194,M,55,Mobile Payment
+C00195,M,72,Credit Card
+C00196,M,18,Credit Card
+C00197,F,36,Credit Card
+C00198,F,57,Cash
+C00199,F,41,Cash
+C00200,F,61,Cash
+C00201,M,35,Mobile Payment
+C00202,M,46,Cash
+C00203,M,70,Credit Card
+C00204,M,66,Credit Card
+C00205,M,56,Credit Card
+C00206,F,18,Mobile Payment
+C00207,F,29,Mobile Payment
+C00208,M,49,Cash
+C00209,M,54,Cash
+C00210,F,48,Credit Card
+C00211,M,59,Mobile Payment
+C00212,M,29,Cash
+C00213,M,67,Credit Card
+C00214,M,55,Cash
+C00215,M,37,Cash
+C00216,M,33,Cash
+C00217,F,17,Mobile Payment
+C00218,F,51,Cash
+C00219,F,52,Mobile Payment
+C00220,F,18,Credit Card
+C00221,M,68,Cash
+C00222,F,17,Mobile Payment
+C00223,M,64,Credit Card
+C00224,M,58,Mobile Payment
+C00225,F,39,Credit Card
+C00226,M,56,Credit Card
+C00227,M,57,Credit Card
+C00228,F,54,Cash
+C00229,F,44,Mobile Payment
+C00230,F,23,Cash
+C00231,M,42,Credit Card
+C00232,F,16,Credit Card
+C00233,F,73,Mobile Payment
+C00234,M,42,Credit Card
+C00235,F,69,Mobile Payment
+C00236,M,64,Mobile Payment
+C00237,M,32,Credit Card
+C00238,M,64,Credit Card
+C00239,M,62,Credit Card
+C00240,M,61,Credit Card
+C00241,M,33,Credit Card
+C00242,F,35,Cash
+C00243,M,77,Cash
+C00244,F,58,Cash
+C00245,M,65,Credit Card
+C00246,F,45,Credit Card
+C00247,M,69,Mobile Payment
+C00248,F,46,Credit Card
+C00249,F,70,Credit Card
+C00250,M,71,Credit Card
+C00251,F,65,Credit Card
+C00252,F,39,Mobile Payment
+C00253,M,74,Credit Card
+C00254,F,65,Cash
+C00255,F,46,Cash
+C00256,M,24,Cash
+C00257,M,57,Credit Card
+C00258,M,70,Cash
+C00259,F,24,Mobile Payment
+C00260,M,63,Credit Card
+C00261,M,45,Credit Card
+C00262,M,26,Credit Card
+C00263,M,67,Mobile Payment
+C00264,M,25,Credit Card
+C00265,F,30,Credit Card
+C00266,M,25,Cash
+C00267,M,39,Credit Card
+C00268,F,46,Cash
+C00269,M,58,Credit Card
+C00270,M,29,Mobile Payment
+C00271,M,30,Credit Card
+C00272,M,56,Cash
+C00273,F,21,Credit Card
+C00274,M,43,Credit Card
+C00275,M,44,Cash
+C00276,M,70,Mobile Payment
+C00277,M,48,Mobile Payment
+C00278,M,31,Credit Card
+C00279,M,20,Cash
+C00280,F,38,Mobile Payment
+C00281,M,28,Cash
+C00282,M,29,Credit Card
+C00283,M,23,Credit Card
+C00284,M,21,Mobile Payment
+C00285,M,66,Credit Card
+C00286,M,56,Cash
+C00287,M,52,Credit Card
+C00288,M,50,Credit Card
+C00289,F,28,Credit Card
+C00290,M,34,Mobile Payment
+C00291,M,43,Mobile Payment
+C00292,M,67,Mobile Payment
+C00293,M,54,Credit Card
+C00294,F,21,Cash
+C00295,M,59,Cash
+C00296,F,56,Credit Card
+C00297,M,52,Credit Card
+C00298,M,50,Credit Card
+C00299,F,62,Credit Card
+C00300,F,67,Credit Card
+C00301,M,32,Mobile Payment
+C00302,M,51,Cash
+C00303,M,64,Credit Card
+C00304,M,46,Credit Card
+C00305,M,46,Credit Card
+C00306,F,73,Credit Card
+C00307,F,29,Credit Card
+C00308,M,57,Credit Card
+C00309,M,47,Credit Card
+C00310,M,56,Credit Card
+C00311,F,16,Cash
+C00312,M,42,Credit Card
+C00313,M,24,Cash
+C00314,F,40,Credit Card
+C00315,M,58,Cash
+C00316,M,38,Credit Card
+C00317,M,39,Credit Card
+C00318,F,51,Mobile Payment
+C00319,M,74,Credit Card
+C00320,M,58,Cash
+C00321,F,69,Cash
+C00322,F,74,Credit Card
+C00323,F,50,Mobile Payment
+C00324,M,57,Credit Card
+C00325,M,54,Cash
+C00326,F,36,Credit Card
+C00327,F,75,Credit Card
+C00328,F,66,Credit Card
+C00329,F,69,Credit Card
+C00330,M,71,Mobile Payment
+C00331,M,52,Mobile Payment
+C00332,M,44,Cash
+C00333,M,39,Credit Card
+C00334,M,30,Credit Card
+C00335,M,61,Cash
+C00336,F,71,Cash
+C00337,M,68,Credit Card
+C00338,M,67,Credit Card
+C00339,M,27,Credit Card
+C00340,M,77,Credit Card
+C00341,M,42,Credit Card
+C00342,F,65,Credit Card
+C00343,M,27,Cash
+C00344,F,63,Credit Card
+C00345,M,59,Credit Card
+C00346,M,26,Credit Card
+C00347,M,39,Credit Card
+C00348,M,35,Mobile Payment
+C00349,M,32,Mobile Payment
+C00350,F,36,Credit Card
+C00351,M,54,Cash
+C00352,M,49,Credit Card
+C00353,M,49,Credit Card
+C00354,F,27,Mobile Payment
+C00355,F,74,Credit Card
+C00356,M,44,Cash
+C00357,M,68,Credit Card
+C00358,F,65,Cash
+C00359,F,35,Cash
+C00360,M,52,Mobile Payment
+C00361,F,66,Mobile Payment
+C00362,M,40,Credit Card
+C00363,F,61,Cash
+C00364,M,66,Mobile Payment
+C00365,M,33,Credit Card
+C00366,M,28,Cash
+C00367,M,55,Credit Card
+C00368,M,66,Mobile Payment
+C00369,F,58,Credit Card
+C00370,M,26,Credit Card
+C00371,M,21,Mobile Payment
+C00372,M,55,Mobile Payment
+C00373,M,60,Credit Card
+C00374,M,73,Cash
+C00375,M,33,Mobile Payment
+C00376,M,40,Credit Card
+C00377,M,28,Cash
+C00378,M,32,Mobile Payment
+C00379,M,45,Credit Card
+C00380,M,43,Cash
+C00381,M,57,Mobile Payment
+C00382,F,56,Mobile Payment
+C00383,F,45,Credit Card
+C00384,M,45,Credit Card
+C00385,F,53,Mobile Payment
+C00386,F,29,Cash
+C00387,F,58,Mobile Payment
+C00388,M,63,Mobile Payment
+C00389,M,58,Mobile Payment
+C00390,F,74,Credit Card
+C00391,M,19,Credit Card
+C00392,F,32,Cash
+C00393,M,47,Mobile Payment
+C00394,F,74,Mobile Payment
+C00395,M,65,Mobile Payment
+C00396,F,20,Cash
+C00397,F,23,Cash
+C00398,M,40,Mobile Payment
+C00399,F,55,Cash
+C00400,F,27,Credit Card
+C00401,M,65,Cash
+C00402,M,31,Mobile Payment
+C00403,M,69,Mobile Payment
+C00404,F,26,Credit Card
+C00405,M,72,Credit Card
+C00406,F,18,Credit Card
+C00407,M,29,Mobile Payment
+C00408,M,77,Credit Card
+C00409,F,55,Cash
+C00410,M,41,Credit Card
+C00411,F,57,Cash
+C00412,F,61,Cash
+C00413,M,62,Credit Card
+C00414,M,36,Mobile Payment
+C00415,M,70,Cash
+C00416,M,33,Credit Card
+C00417,M,62,Cash
+C00418,F,70,Credit Card
+C00419,M,48,Credit Card
+C00420,M,67,Mobile Payment
+C00421,M,58,Mobile Payment
+C00422,F,46,Credit Card
+C00423,M,75,Credit Card
+C00424,F,77,Credit Card
+C00425,F,48,Cash
+C00426,M,60,Credit Card
+C00427,M,55,Credit Card
+C00428,F,22,Cash
+C00429,M,47,Mobile Payment
+C00430,F,45,Credit Card
+C00431,F,39,Cash
+C00432,M,60,Credit Card
+C00433,F,16,Credit Card
+C00434,M,63,Credit Card
+C00435,M,34,Credit Card
+C00436,F,67,Credit Card
+C00437,M,77,Credit Card
+C00438,M,52,Cash
+C00439,M,52,Mobile Payment
+C00440,M,72,Cash
+C00441,M,36,Credit Card
+C00442,M,20,Credit Card
+C00443,F,52,Credit Card
+C00444,M,60,Mobile Payment
+C00445,F,63,Credit Card
+C00446,F,20,Credit Card
+C00447,M,42,Credit Card
+C00448,F,27,Credit Card
+C00449,F,36,Cash
+C00450,F,22,Mobile Payment
+C00451,F,72,Credit Card
+C00452,M,48,Mobile Payment
+C00453,M,54,Cash
+C00454,M,59,Credit Card
+C00455,F,31,Mobile Payment
+C00456,M,54,Credit Card
+C00457,F,30,Cash
+C00458,M,17,Credit Card
+C00459,F,18,Cash
+C00460,F,37,Mobile Payment
+C00461,M,31,Cash
+C00462,M,56,Mobile Payment
+C00463,F,67,Cash
+C00464,F,41,Credit Card
+C00465,F,67,Cash
+C00466,F,46,Credit Card
+C00467,M,56,Mobile Payment
+C00468,F,76,Mobile Payment
+C00469,F,17,Cash
+C00470,M,56,Credit Card
+C00471,F,47,Cash
+C00472,M,40,Mobile Payment
+C00473,F,57,Cash
+C00474,M,51,Cash
+C00475,M,64,Mobile Payment
+C00476,M,16,Credit Card
+C00477,F,25,Cash
+C00478,M,28,Credit Card
+C00479,M,74,Credit Card
+C00480,F,23,Mobile Payment
+C00481,M,26,Credit Card
+C00482,F,62,Cash
+C00483,M,68,Credit Card
+C00484,F,35,Credit Card
+C00485,F,23,Mobile Payment
+C00486,M,18,Credit Card
+C00487,F,38,Mobile Payment
+C00488,M,73,Credit Card
+C00489,F,69,Credit Card
+C00490,M,74,Mobile Payment
+C00491,F,49,Mobile Payment
+C00492,M,76,Mobile Payment
+C00493,F,67,Mobile Payment
+C00494,F,62,Credit Card
+C00495,M,41,Credit Card
+C00496,M,59,Mobile Payment
+C00497,F,36,Cash
+C00498,F,37,Credit Card
+C00499,F,65,Cash
+C00500,M,47,Credit Card
+C00501,M,42,Credit Card
+C00502,M,29,Credit Card
+C00503,M,34,Mobile Payment
+C00504,F,27,Credit Card
+C00505,F,74,Mobile Payment
+C00506,M,75,Mobile Payment
+C00507,F,64,Mobile Payment
+C00508,M,60,Credit Card
+C00509,F,17,Cash
+C00510,M,46,Credit Card
+C00511,M,72,Cash
+C00512,M,28,Credit Card
+C00513,F,37,Mobile Payment
+C00514,M,69,Cash
+C00515,M,54,Credit Card
+C00516,F,34,Cash
+C00517,M,26,Cash
+C00518,M,27,Mobile Payment
+C00519,F,72,Credit Card
+C00520,F,34,Cash
+C00521,F,57,Cash
+C00522,M,51,Mobile Payment
+C00523,M,63,Mobile Payment
+C00524,M,22,Mobile Payment
+C00525,M,41,Credit Card
+C00526,M,74,Cash
+C00527,F,75,Mobile Payment
+C00528,F,40,Credit Card
+C00529,M,47,Mobile Payment
+C00530,M,50,Credit Card
+C00531,M,67,Credit Card
+C00532,M,42,Credit Card
+C00533,F,43,Cash
+C00534,M,64,Credit Card
+C00535,M,42,Mobile Payment
+C00536,F,65,Credit Card
+C00537,M,72,Credit Card
+C00538,M,72,Mobile Payment
+C00539,F,60,Cash
+C00540,M,21,Credit Card
+C00541,F,20,Credit Card
+C00542,M,41,Credit Card
+C00543,M,24,Cash
+C00544,M,28,Mobile Payment
+C00545,M,36,Cash
+C00546,F,40,Cash
+C00547,M,22,Cash
+C00548,M,61,Credit Card
+C00549,M,72,Cash
+C00550,M,74,Cash
+C00551,F,71,Cash
+C00552,F,75,Credit Card
+C00553,F,76,Cash
+C00554,M,27,Mobile Payment
+C00555,F,69,Mobile Payment
+C00556,M,21,Credit Card
+C00557,M,56,Cash
+C00558,F,70,Credit Card
+C00559,M,30,Mobile Payment
+C00560,M,69,Credit Card
+C00561,M,58,Cash
+C00562,M,18,Cash
+C00563,M,66,Mobile Payment
+C00564,M,40,Credit Card
+C00565,M,72,Mobile Payment
+C00566,F,36,Credit Card
+C00567,M,39,Credit Card
+C00568,F,47,Credit Card
+C00569,M,68,Cash
+C00570,F,18,Cash
+C00571,M,59,Cash
+C00572,M,77,Mobile Payment
+C00573,M,47,Credit Card
+C00574,F,55,Cash
+C00575,F,48,Cash
+C00576,M,62,Cash
+C00577,F,73,Cash
+C00578,M,67,Credit Card
+C00579,F,69,Cash
+C00580,M,47,Mobile Payment
+C00581,F,25,Credit Card
+C00582,M,59,Cash
+C00583,M,51,Cash
+C00584,M,52,Credit Card
+C00585,M,44,Mobile Payment
+C00586,M,33,Mobile Payment
+C00587,F,68,Cash
+C00588,M,21,Credit Card
+C00589,M,58,Credit Card
+C00590,F,33,Credit Card
+C00591,F,60,Mobile Payment
+C00592,M,49,Credit Card
+C00593,F,33,Cash
+C00594,F,27,Credit Card
+C00595,M,77,Credit Card
+C00596,F,41,Credit Card
+C00597,M,70,Credit Card
+C00598,F,73,Cash
+C00599,F,62,Credit Card
+C00600,M,69,Credit Card
+C00601,M,28,Credit Card
+C00602,M,39,Credit Card
+C00603,M,54,Mobile Payment
+C00604,M,45,Mobile Payment
+C00605,M,17,Mobile Payment
+C00606,F,24,Cash
+C00607,M,69,Mobile Payment
+C00608,M,20,Cash
+C00609,F,50,Mobile Payment
+C00610,M,25,Cash
+C00611,M,62,Mobile Payment
+C00612,M,69,Credit Card
+C00613,M,76,Cash
+C00614,M,61,Credit Card
+C00615,F,48,Credit Card
+C00616,M,48,Credit Card
+C00617,F,71,Credit Card
+C00618,F,35,Cash
+C00619,M,18,Credit Card
+C00620,M,60,Cash
+C00621,M,51,Credit Card
+C00622,M,49,Cash
+C00623,M,49,Mobile Payment
+C00624,M,50,Credit Card
+C00625,F,29,Mobile Payment
+C00626,F,52,Credit Card
+C00627,F,42,Credit Card
+C00628,M,53,Credit Card
+C00629,M,77,Mobile Payment
+C00630,M,37,Cash
+C00631,M,70,Mobile Payment
+C00632,M,57,Mobile Payment
+C00633,M,61,Mobile Payment
+C00634,F,70,Credit Card
+C00635,F,37,Cash
+C00636,M,18,Cash
+C00637,M,20,Cash
+C00638,F,37,Cash
+C00639,M,48,Credit Card
+C00640,M,52,Credit Card
+C00641,M,19,Mobile Payment
+C00642,F,38,Credit Card
+C00643,M,49,Mobile Payment
+C00644,F,75,Mobile Payment
+C00645,F,61,Credit Card
+C00646,M,60,Credit Card
+C00647,F,59,Mobile Payment
+C00648,F,49,Cash
+C00649,M,59,Credit Card
+C00650,F,20,Credit Card
+C00651,F,50,Credit Card
+C00652,F,77,Cash
+C00653,M,61,Credit Card
+C00654,M,30,Credit Card
+C00655,M,17,Credit Card
+C00656,M,29,Credit Card
+C00657,F,31,Mobile Payment
+C00658,M,41,Mobile Payment
+C00659,F,46,Credit Card
+C00660,M,43,Credit Card
+C00661,M,22,Credit Card
+C00662,M,18,Cash
+C00663,M,68,Cash
+C00664,F,65,Credit Card
+C00665,M,76,Credit Card
+C00666,M,19,Credit Card
+C00667,M,67,Credit Card
+C00668,M,73,Mobile Payment
+C00669,F,72,Mobile Payment
+C00670,F,28,Mobile Payment
+C00671,M,29,Mobile Payment
+C00672,M,24,Credit Card
+C00673,M,35,Cash
+C00674,M,40,Cash
+C00675,M,75,Cash
+C00676,M,42,Cash
+C00677,F,19,Mobile Payment
+C00678,F,70,Credit Card
+C00679,F,62,Credit Card
+C00680,M,16,Cash
+C00681,M,35,Cash
+C00682,F,58,Credit Card
+C00683,F,56,Credit Card
+C00684,F,27,Cash
+C00685,F,25,Mobile Payment
+C00686,F,18,Cash
+C00687,F,57,Cash
+C00688,M,45,Mobile Payment
+C00689,F,44,Mobile Payment
+C00690,M,16,Cash
+C00691,M,25,Credit Card
+C00692,M,76,Mobile Payment
+C00693,M,62,Credit Card
+C00694,M,21,Credit Card
+C00695,F,49,Credit Card
+C00696,M,27,Mobile Payment
+C00697,M,61,Mobile Payment
+C00698,M,39,Cash
+C00699,M,24,Credit Card
+C00700,M,39,Credit Card
+C00701,M,39,Cash
+C00702,M,23,Mobile Payment
+C00703,F,66,Cash
+C00704,M,67,Mobile Payment
+C00705,F,61,Cash
+C00706,F,37,Mobile Payment
+C00707,F,43,Credit Card
+C00708,M,65,Credit Card
+C00709,M,50,Cash
+C00710,M,46,Mobile Payment
+C00711,F,17,Credit Card
+C00712,M,19,Credit Card
+C00713,M,74,Credit Card
+C00714,M,31,Credit Card
+C00715,M,56,Cash
+C00716,F,26,Cash
+C00717,F,26,Cash
+C00718,F,40,Mobile Payment
+C00719,M,34,Mobile Payment
+C00720,F,64,Credit Card
+C00721,F,20,Cash
+C00722,M,60,Credit Card
+C00723,F,21,Credit Card
+C00724,M,36,Cash
+C00725,M,72,Credit Card
+C00726,F,65,Mobile Payment
+C00727,M,37,Credit Card
+C00728,F,32,Cash
+C00729,M,60,Mobile Payment
+C00730,M,45,Credit Card
+C00731,F,42,Credit Card
+C00732,M,48,Mobile Payment
+C00733,M,63,Cash
+C00734,F,65,Mobile Payment
+C00735,F,42,Cash
+C00736,M,40,Credit Card
+C00737,M,75,Cash
+C00738,M,43,Credit Card
+C00739,F,74,Credit Card
+C00740,F,65,Cash
+C00741,F,20,Credit Card
+C00742,F,65,Credit Card
+C00743,M,24,Mobile Payment
+C00744,F,70,Cash
+C00745,M,76,Cash
+C00746,M,33,Mobile Payment
+C00747,M,31,Mobile Payment
+C00748,M,37,Cash
+C00749,M,59,Credit Card
+C00750,F,23,Mobile Payment
+C00751,F,60,Credit Card
+C00752,F,53,Credit Card
+C00753,F,76,Credit Card
+C00754,F,63,Cash
+C00755,F,67,Cash
+C00756,M,18,Credit Card
+C00757,M,56,Credit Card
+C00758,F,68,Mobile Payment
+C00759,M,50,Credit Card
+C00760,M,27,Mobile Payment
+C00761,F,60,Cash
+C00762,F,43,Credit Card
+C00763,M,43,Mobile Payment
+C00764,M,29,Cash
+C00765,M,26,Credit Card
+C00766,F,43,Credit Card
+C00767,F,56,Mobile Payment
+C00768,M,66,Cash
+C00769,M,70,Credit Card
+C00770,F,56,Credit Card
+C00771,F,36,Credit Card
+C00772,M,76,Credit Card
+C00773,F,23,Credit Card
+C00774,M,36,Cash
+C00775,F,44,Mobile Payment
+C00776,F,70,Credit Card
+C00777,F,23,Cash
+C00778,F,24,Credit Card
+C00779,M,45,Cash
+C00780,F,30,Credit Card
+C00781,M,33,Mobile Payment
+C00782,M,70,Mobile Payment
+C00783,F,40,Credit Card
+C00784,M,74,Mobile Payment
+C00785,M,26,Cash
+C00786,M,61,Credit Card
+C00787,M,48,Credit Card
+C00788,F,51,Credit Card
+C00789,M,52,Cash
+C00790,F,25,Credit Card
+C00791,F,69,Credit Card
+C00792,M,22,Cash
+C00793,M,65,Mobile Payment
+C00794,M,23,Cash
+C00795,F,45,Credit Card
+C00796,M,43,Credit Card
+C00797,M,51,Credit Card
+C00798,M,22,Credit Card
+C00799,M,32,Credit Card
+C00800,F,57,Credit Card
+C00801,M,41,Credit Card
+C00802,F,40,Mobile Payment
+C00803,M,43,Credit Card
+C00804,F,24,Credit Card
+C00805,M,53,Credit Card
+C00806,F,21,Credit Card
+C00807,M,72,Credit Card
+C00808,M,27,Credit Card
+C00809,F,48,Credit Card
+C00810,F,75,Credit Card
+C00811,M,57,Mobile Payment
+C00812,M,50,Cash
+C00813,M,38,Credit Card
+C00814,M,39,Mobile Payment
+C00815,F,58,Credit Card
+C00816,M,24,Mobile Payment
+C00817,F,25,Mobile Payment
+C00818,F,60,Cash
+C00819,F,29,Mobile Payment
+C00820,F,26,Credit Card
+C00821,F,38,Cash
+C00822,F,27,Credit Card
+C00823,F,58,Mobile Payment
+C00824,F,71,Credit Card
+C00825,F,36,Cash
+C00826,F,57,Cash
+C00827,M,45,Cash
+C00828,M,53,Mobile Payment
+C00829,F,39,Credit Card
+C00830,F,28,Cash
+C00831,F,77,Cash
+C00832,M,62,Credit Card
+C00833,M,23,Mobile Payment
+C00834,F,19,Cash
+C00835,M,17,Mobile Payment
+C00836,F,41,Mobile Payment
+C00837,F,21,Credit Card
+C00838,F,51,Credit Card
+C00839,M,36,Mobile Payment
+C00840,M,20,Mobile Payment
+C00841,M,22,Credit Card
+C00842,F,52,Cash
+C00843,M,25,Mobile Payment
+C00844,M,62,Credit Card
+C00845,M,72,Credit Card
+C00846,F,16,Mobile Payment
+C00847,F,43,Cash
+C00848,M,72,Credit Card
+C00849,F,27,Credit Card
+C00850,F,67,Cash
+C00851,F,72,Credit Card
+C00852,M,61,Mobile Payment
+C00853,M,21,Cash
+C00854,M,60,Credit Card
+C00855,M,75,Cash
+C00856,F,73,Credit Card
+C00857,M,39,Mobile Payment
+C00858,F,74,Mobile Payment
+C00859,M,18,Cash
+C00860,M,68,Credit Card
+C00861,M,21,Mobile Payment
+C00862,F,22,Credit Card
+C00863,M,59,Cash
+C00864,M,67,Credit Card
+C00865,M,43,Cash
+C00866,M,43,Cash
+C00867,M,52,Credit Card
+C00868,F,71,Cash
+C00869,M,41,Cash
+C00870,M,23,Mobile Payment
+C00871,M,22,Credit Card
+C00872,F,37,Credit Card
+C00873,F,77,Credit Card
+C00874,M,43,Cash
+C00875,M,71,Mobile Payment
+C00876,M,48,Cash
+C00877,F,27,Credit Card
+C00878,M,68,Mobile Payment
+C00879,F,74,Credit Card
+C00880,F,19,Cash
+C00881,M,60,Mobile Payment
+C00882,M,20,Credit Card
+C00883,M,39,Credit Card
+C00884,M,29,Cash
+C00885,F,18,Cash
+C00886,M,17,Credit Card
+C00887,F,52,Credit Card
+C00888,M,50,Mobile Payment
+C00889,F,25,Cash
+C00890,F,52,Credit Card
+C00891,F,53,Cash
+C00892,F,43,Credit Card
+C00893,F,60,Credit Card
+C00894,F,63,Mobile Payment
+C00895,M,43,Cash
+C00896,F,34,Mobile Payment
+C00897,F,46,Cash
+C00898,M,23,Credit Card
+C00899,M,22,Mobile Payment
+C00900,M,75,Mobile Payment
+C00901,F,22,Mobile Payment
+C00902,M,60,Cash
+C00903,F,38,Cash
+C00904,M,36,Cash
+C00905,M,68,Mobile Payment
+C00906,M,45,Credit Card
+C00907,M,66,Credit Card
+C00908,M,36,Cash
+C00909,M,29,Cash
+C00910,M,54,Credit Card
+C00911,M,18,Mobile Payment
+C00912,M,74,Credit Card
+C00913,M,36,Credit Card
+C00914,F,47,Credit Card
+C00915,M,31,Cash
+C00916,M,70,Cash
+C00917,F,30,Cash
+C00918,M,73,Mobile Payment
+C00919,F,70,Credit Card
+C00920,F,37,Credit Card
+C00921,M,64,Mobile Payment
+C00922,F,20,Mobile Payment
+C00923,M,39,Cash
+C00924,F,62,Cash
+C00925,M,32,Credit Card
+C00926,M,38,Credit Card
+C00927,M,64,Cash
+C00928,F,42,Credit Card
+C00929,M,45,Cash
+C00930,M,32,Mobile Payment
+C00931,M,74,Credit Card
+C00932,F,20,Cash
+C00933,M,61,Credit Card
+C00934,M,46,Credit Card
+C00935,F,66,Credit Card
+C00936,M,30,Credit Card
+C00937,M,66,Credit Card
+C00938,M,35,Mobile Payment
+C00939,M,17,Credit Card
+C00940,F,25,Mobile Payment
+C00941,F,66,Cash
+C00942,M,55,Credit Card
+C00943,M,65,Mobile Payment
+C00944,F,37,Cash
+C00945,M,24,Cash
+C00946,M,30,Mobile Payment
+C00947,F,34,Credit Card
+C00948,F,42,Cash
+C00949,M,34,Cash
+C00950,F,70,Credit Card
+C00951,M,48,Cash
+C00952,M,38,Mobile Payment
+C00953,M,67,Mobile Payment
+C00954,F,65,Credit Card
+C00955,M,22,Mobile Payment
+C00956,M,54,Cash
+C00957,F,51,Credit Card
+C00958,M,68,Credit Card
+C00959,F,44,Credit Card
+C00960,M,74,Mobile Payment
+C00961,M,48,Credit Card
+C00962,F,31,Mobile Payment
+C00963,M,50,Credit Card
+C00964,M,52,Credit Card
+C00965,M,50,Cash
+C00966,M,77,Credit Card
+C00967,F,75,Credit Card
+C00968,M,57,Cash
+C00969,M,19,Cash
+C00970,M,40,Credit Card
+C00971,M,49,Cash
+C00972,M,63,Credit Card
+C00973,M,77,Credit Card
+C00974,M,29,Mobile Payment
+C00975,F,46,Mobile Payment
+C00976,F,33,Mobile Payment
+C00977,F,46,Credit Card
+C00978,F,21,Mobile Payment
+C00979,M,77,Cash
+C00980,F,47,Mobile Payment
+C00981,M,69,Mobile Payment
+C00982,F,73,Mobile Payment
+C00983,M,67,Credit Card
+C00984,M,50,Cash
+C00985,F,63,Credit Card
+C00986,M,20,Credit Card
+C00987,M,47,Cash
+C00988,F,64,Cash
+C00989,F,67,Cash
+C00990,M,38,Credit Card
+C00991,M,40,Credit Card
+C00992,F,23,Credit Card
+C00993,F,74,Mobile Payment
+C00994,M,17,Cash
+C00995,M,41,Mobile Payment
+C00996,F,41,Credit Card
+C00997,F,55,Credit Card
+C00998,M,76,Credit Card
+C00999,M,31,Mobile Payment
+C01000,M,71,Credit Card
+C01001,M,23,Mobile Payment
+C01002,M,54,Cash
+C01003,F,50,Credit Card
+C01004,F,60,Mobile Payment
+C01005,F,27,Credit Card
+C01006,M,42,Cash
+C01007,M,66,Mobile Payment
+C01008,M,39,Credit Card
+C01009,M,67,Credit Card
+C01010,M,27,Cash
+C01011,M,19,Credit Card
+C01012,F,45,Mobile Payment
+C01013,M,73,Credit Card
+C01014,M,33,Credit Card
+C01015,F,25,Cash
+C01016,M,67,Cash
+C01017,M,38,Credit Card
+C01018,M,47,Mobile Payment
+C01019,F,42,Credit Card
+C01020,M,73,Cash
+C01021,M,44,Mobile Payment
+C01022,F,38,Mobile Payment
+C01023,M,27,Cash
+C01024,M,72,Credit Card
+C01025,M,55,Mobile Payment
+C01026,M,34,Credit Card
+C01027,M,73,Credit Card
+C01028,M,33,Cash
+C01029,F,55,Cash
+C01030,F,16,Credit Card
+C01031,M,44,Credit Card
+C01032,F,76,Mobile Payment
+C01033,M,59,Credit Card
+C01034,F,56,Cash
+C01035,F,63,Mobile Payment
+C01036,M,52,Mobile Payment
+C01037,M,20,Credit Card
+C01038,F,77,Mobile Payment
+C01039,M,42,Mobile Payment
+C01040,M,16,Credit Card
+C01041,M,25,Credit Card
+C01042,F,22,Cash
+C01043,M,46,Credit Card
+C01044,F,54,Cash
+C01045,M,68,Credit Card
+C01046,F,28,Credit Card
+C01047,M,48,Credit Card
+C01048,F,65,Credit Card
+C01049,F,34,Cash
+C01050,M,57,Credit Card
+C01051,F,75,Credit Card
+C01052,M,21,Cash
+C01053,M,66,Credit Card
+C01054,F,44,Cash
+C01055,M,64,Cash
+C01056,M,31,Mobile Payment
+C01057,F,49,Credit Card
+C01058,M,75,Credit Card
+C01059,M,16,Credit Card
+C01060,M,76,Cash
+C01061,M,52,Mobile Payment
+C01062,F,42,Cash
+C01063,M,38,Credit Card
+C01064,F,30,Credit Card
+C01065,M,41,Mobile Payment
+C01066,M,41,Mobile Payment
+C01067,F,25,Credit Card
+C01068,F,30,Mobile Payment
+C01069,F,63,Cash
+C01070,F,71,Credit Card
+C01071,M,60,Credit Card
+C01072,M,57,Credit Card
+C01073,M,65,Credit Card
+C01074,M,74,Credit Card
+C01075,M,31,Credit Card
+C01076,F,46,Mobile Payment
+C01077,M,18,Credit Card
+C01078,M,34,Mobile Payment
+C01079,F,39,Credit Card
+C01080,M,60,Mobile Payment
+C01081,F,45,Credit Card
+C01082,M,66,Credit Card
+C01083,F,27,Credit Card
+C01084,F,42,Credit Card
+C01085,M,48,Credit Card
+C01086,F,59,Cash
+C01087,F,69,Cash
+C01088,M,76,Mobile Payment
+C01089,F,61,Cash
+C01090,M,55,Credit Card
+C01091,F,59,Cash
+C01092,F,32,Cash
+C01093,M,61,Credit Card
+C01094,F,24,Cash
+C01095,M,70,Credit Card
+C01096,F,51,Credit Card
+C01097,F,70,Credit Card
+C01098,M,69,Credit Card
+C01099,F,61,Credit Card
+C01100,M,69,Credit Card
+C01101,F,75,Mobile Payment
+C01102,M,40,Cash
+C01103,M,17,Mobile Payment
+C01104,M,59,Mobile Payment
+C01105,F,23,Credit Card
+C01106,M,41,Credit Card
+C01107,F,55,Credit Card
+C01108,M,42,Cash
+C01109,F,26,Credit Card
+C01110,M,53,Cash
+C01111,M,71,Credit Card
+C01112,F,38,Mobile Payment
+C01113,F,47,Cash
+C01114,M,50,Credit Card
+C01115,M,18,Mobile Payment
+C01116,M,32,Mobile Payment
+C01117,M,24,Credit Card
+C01118,F,62,Cash
+C01119,M,27,Credit Card
+C01120,F,73,Credit Card
+C01121,M,23,Cash
+C01122,M,47,Cash
+C01123,F,66,Mobile Payment
+C01124,M,40,Cash
+C01125,M,45,Mobile Payment
+C01126,F,63,Credit Card
+C01127,M,74,Cash
+C01128,F,54,Mobile Payment
+C01129,M,47,Mobile Payment
+C01130,F,27,Cash
+C01131,F,52,Credit Card
+C01132,M,62,Credit Card
+C01133,M,66,Mobile Payment
+C01134,F,63,Mobile Payment
+C01135,M,55,Cash
+C01136,M,77,Cash
+C01137,F,75,Mobile Payment
+C01138,M,63,Cash
+C01139,M,34,Cash
+C01140,M,22,Credit Card
+C01141,F,30,Credit Card
+C01142,M,18,Mobile Payment
+C01143,M,58,Credit Card
+C01144,M,42,Credit Card
+C01145,F,18,Credit Card
+C01146,M,45,Credit Card
+C01147,M,59,Credit Card
+C01148,M,77,Credit Card
+C01149,F,32,Cash
+C01150,F,25,Mobile Payment
+C01151,M,49,Mobile Payment
+C01152,F,16,Credit Card
+C01153,M,43,Cash
+C01154,F,44,Mobile Payment
+C01155,M,46,Credit Card
+C01156,M,20,Mobile Payment
+C01157,M,38,Credit Card
+C01158,M,32,Credit Card
+C01159,M,26,Credit Card
+C01160,F,25,Mobile Payment
+C01161,F,41,Cash
+C01162,M,26,Mobile Payment
+C01163,F,74,Credit Card
+C01164,F,49,Mobile Payment
+C01165,F,25,Credit Card
+C01166,M,62,Mobile Payment
+C01167,M,46,Credit Card
+C01168,F,19,Credit Card
+C01169,F,48,Mobile Payment
+C01170,M,36,Credit Card
+C01171,F,33,Mobile Payment
+C01172,M,42,Credit Card
+C01173,F,30,Mobile Payment
+C01174,F,50,Credit Card
+C01175,M,76,Cash
+C01176,M,39,Credit Card
+C01177,M,41,Cash
+C01178,F,24,Credit Card
+C01179,F,43,Cash
+C01180,M,44,Mobile Payment
+C01181,M,28,Credit Card
+C01182,M,77,Cash
+C01183,M,71,Credit Card
+C01184,M,63,Credit Card
+C01185,F,54,Mobile Payment
+C01186,M,77,Credit Card
+C01187,M,46,Credit Card
+C01188,M,42,Mobile Payment
+C01189,M,71,Mobile Payment
+C01190,F,22,Mobile Payment
+C01191,F,63,Cash
+C01192,M,37,Mobile Payment
+C01193,M,30,Mobile Payment
+C01194,M,59,Cash
+C01195,F,22,Mobile Payment
+C01196,M,21,Credit Card
+C01197,M,70,Cash
+C01198,F,23,Credit Card
+C01199,M,54,Mobile Payment
+C01200,M,51,Cash
+C01201,M,30,Cash
+C01202,M,33,Cash
+C01203,M,77,Credit Card
+C01204,M,47,Mobile Payment
+C01205,M,67,Credit Card
+C01206,M,36,Mobile Payment
+C01207,M,31,Credit Card
+C01208,M,61,Credit Card
+C01209,F,65,Credit Card
+C01210,M,30,Credit Card
+C01211,M,42,Credit Card
+C01212,F,61,Cash
+C01213,F,42,Mobile Payment
+C01214,M,22,Mobile Payment
+C01215,M,25,Cash
+C01216,F,34,Cash
+C01217,M,61,Mobile Payment
+C01218,M,36,Mobile Payment
+C01219,F,60,Mobile Payment
+C01220,M,42,Mobile Payment
+C01221,M,24,Cash
+C01222,M,19,Mobile Payment
+C01223,M,24,Cash
+C01224,M,19,Mobile Payment
+C01225,F,51,Cash
+C01226,F,46,Credit Card
+C01227,F,39,Cash
+C01228,F,72,Mobile Payment
+C01229,M,22,Cash
+C01230,M,66,Credit Card
+C01231,M,63,Cash
+C01232,M,65,Credit Card
+C01233,M,75,Mobile Payment
+C01234,F,39,Credit Card
+C01235,M,29,Mobile Payment
+C01236,F,27,Credit Card
+C01237,F,63,Credit Card
+C01238,M,19,Mobile Payment
+C01239,M,64,Credit Card
+C01240,M,74,Mobile Payment
+C01241,F,32,Mobile Payment
+C01242,F,53,Credit Card
+C01243,F,60,Mobile Payment
+C01244,M,34,Credit Card
+C01245,M,71,Cash
+C01246,F,76,Cash
+C01247,M,57,Cash
+C01248,F,62,Mobile Payment
+C01249,M,25,Credit Card
+C01250,M,41,Mobile Payment
+C01251,F,23,Mobile Payment
+C01252,F,66,Credit Card
+C01253,F,19,Mobile Payment
+C01254,F,48,Credit Card
+C01255,M,42,Cash
+C01256,F,18,Credit Card
+C01257,F,32,Mobile Payment
+C01258,M,69,Mobile Payment
+C01259,M,64,Cash
+C01260,M,57,Credit Card
+C01261,F,58,Credit Card
+C01262,M,36,Credit Card
+C01263,F,76,Mobile Payment
+C01264,M,76,Credit Card
+C01265,F,61,Mobile Payment
+C01266,M,75,Credit Card
+C01267,M,26,Cash
+C01268,F,44,Cash
+C01269,M,43,Cash
+C01270,M,60,Mobile Payment
+C01271,F,64,Mobile Payment
+C01272,F,50,Cash
+C01273,F,54,Mobile Payment
+C01274,M,32,Mobile Payment
+C01275,F,36,Cash
+C01276,M,64,Mobile Payment
+C01277,F,50,Cash
+C01278,M,21,Credit Card
+C01279,M,76,Credit Card
+C01280,M,22,Cash
+C01281,M,66,Credit Card
+C01282,F,55,Credit Card
+C01283,M,53,Mobile Payment
+C01284,M,64,Credit Card
+C01285,F,49,Mobile Payment
+C01286,M,19,Credit Card
+C01287,F,40,Cash
+C01288,F,54,Cash
+C01289,F,70,Credit Card
+C01290,M,48,Mobile Payment
+C01291,M,46,Credit Card
+C01292,M,40,Credit Card
+C01293,M,67,Cash
+C01294,F,65,Cash
+C01295,M,41,Mobile Payment
+C01296,F,23,Cash
+C01297,M,37,Credit Card
+C01298,F,45,Credit Card
+C01299,M,40,Mobile Payment
+C01300,F,61,Mobile Payment
+C01301,M,63,Cash
+C01302,M,71,Credit Card
+C01303,M,55,Credit Card
+C01304,F,57,Mobile Payment
+C01305,M,66,Mobile Payment
+C01306,F,73,Credit Card
+C01307,M,77,Credit Card
+C01308,M,62,Mobile Payment
+C01309,M,24,Credit Card
+C01310,M,18,Credit Card
+C01311,M,43,Mobile Payment
+C01312,M,71,Mobile Payment
+C01313,F,37,Credit Card
+C01314,M,61,Credit Card
+C01315,F,73,Credit Card
+C01316,F,30,Credit Card
+C01317,F,52,Credit Card
+C01318,M,70,Credit Card
+C01319,F,36,Credit Card
+C01320,M,30,Mobile Payment
+C01321,F,21,Credit Card
+C01322,M,44,Credit Card
+C01323,M,28,Cash
+C01324,F,17,Credit Card
+C01325,M,32,Cash
+C01326,F,30,Mobile Payment
+C01327,M,53,Credit Card
+C01328,M,61,Credit Card
+C01329,M,77,Mobile Payment
+C01330,F,46,Credit Card
+C01331,M,69,Mobile Payment
+C01332,F,40,Mobile Payment
+C01333,F,54,Credit Card
+C01334,M,54,Mobile Payment
+C01335,F,17,Mobile Payment
+C01336,M,30,Mobile Payment
+C01337,M,57,Credit Card
+C01338,F,35,Cash
+C01339,M,18,Credit Card
+C01340,M,21,Cash
+C01341,M,75,Mobile Payment
+C01342,F,28,Mobile Payment
+C01343,F,25,Credit Card
+C01344,F,32,Mobile Payment
+C01345,M,73,Mobile Payment
+C01346,M,76,Credit Card
+C01347,M,43,Cash
+C01348,M,52,Credit Card
+C01349,M,36,Cash
+C01350,M,57,Credit Card
+C01351,F,47,Credit Card
+C01352,M,49,Credit Card
+C01353,F,54,Credit Card
+C01354,M,62,Cash
+C01355,M,47,Credit Card
+C01356,F,17,Credit Card
+C01357,F,28,Mobile Payment
+C01358,F,61,Credit Card
+C01359,F,18,Credit Card
+C01360,M,44,Credit Card
+C01361,F,20,Cash
+C01362,F,41,Cash
+C01363,F,16,Mobile Payment
+C01364,M,27,Cash
+C01365,M,74,Cash
+C01366,M,64,Cash
+C01367,F,39,Credit Card
+C01368,M,31,Cash
+C01369,M,41,Credit Card
+C01370,M,75,Mobile Payment
+C01371,F,40,Cash
+C01372,M,67,Credit Card
+C01373,F,30,Credit Card
+C01374,F,55,Credit Card
+C01375,M,63,Credit Card
+C01376,M,69,Cash
+C01377,F,50,Mobile Payment
+C01378,F,63,Mobile Payment
+C01379,M,23,Credit Card
+C01380,M,16,Mobile Payment
+C01381,M,54,Cash
+C01382,M,41,Mobile Payment
+C01383,M,38,Mobile Payment
+C01384,F,68,Credit Card
+C01385,M,39,Credit Card
+C01386,M,31,Credit Card
+C01387,M,64,Credit Card
+C01388,F,77,Cash
+C01389,M,50,Credit Card
+C01390,F,26,Mobile Payment
+C01391,M,35,Mobile Payment
+C01392,M,67,Credit Card
+C01393,M,27,Credit Card
+C01394,M,44,Credit Card
+C01395,M,56,Credit Card
+C01396,M,49,Mobile Payment
+C01397,F,18,Credit Card
+C01398,M,71,Credit Card
+C01399,F,58,Credit Card
+C01400,M,35,Mobile Payment
+C01401,M,59,Credit Card
+C01402,M,34,Cash
+C01403,F,29,Mobile Payment
+C01404,M,25,Credit Card
+C01405,M,48,Credit Card
+C01406,F,54,Mobile Payment
+C01407,M,34,Credit Card
+C01408,M,31,Cash
+C01409,F,62,Cash
+C01410,M,24,Cash
+C01411,M,26,Credit Card
+C01412,M,17,Cash
+C01413,F,53,Mobile Payment
+C01414,F,76,Credit Card
+C01415,F,56,Mobile Payment
+C01416,F,36,Cash
+C01417,F,31,Mobile Payment
+C01418,F,68,Cash
+C01419,M,52,Credit Card
+C01420,M,51,Credit Card
+C01421,M,30,Cash
+C01422,F,50,Credit Card
+C01423,F,47,Credit Card
+C01424,M,65,Credit Card
+C01425,F,60,Cash
+C01426,M,70,Cash
+C01427,M,45,Mobile Payment
+C01428,M,47,Mobile Payment
+C01429,F,64,Cash
+C01430,F,53,Mobile Payment
+C01431,F,54,Mobile Payment
+C01432,F,73,Credit Card
+C01433,F,45,Mobile Payment
+C01434,F,55,Mobile Payment
+C01435,M,22,Mobile Payment
+C01436,F,28,Credit Card
+C01437,M,27,Cash
+C01438,F,31,Credit Card
+C01439,F,45,Credit Card
+C01440,F,20,Credit Card
+C01441,M,47,Cash
+C01442,F,22,Credit Card
+C01443,F,64,Credit Card
+C01444,M,20,Cash
+C01445,M,51,Credit Card
+C01446,M,29,Credit Card
+C01447,F,54,Cash
+C01448,M,25,Mobile Payment
+C01449,M,70,Mobile Payment
+C01450,M,71,Mobile Payment
+C01451,M,41,Mobile Payment
+C01452,M,51,Mobile Payment
+C01453,F,37,Credit Card
+C01454,M,41,Cash
+C01455,M,27,Credit Card
+C01456,M,56,Credit Card
+C01457,M,72,Cash
+C01458,M,56,Credit Card
+C01459,F,72,Cash
+C01460,F,71,Mobile Payment
+C01461,M,48,Mobile Payment
+C01462,M,23,Mobile Payment
+C01463,F,53,Credit Card
+C01464,M,40,Credit Card
+C01465,F,19,Credit Card
+C01466,M,46,Cash
+C01467,F,19,Credit Card
+C01468,M,72,Credit Card
+C01469,M,47,Mobile Payment
+C01470,M,68,Cash
+C01471,F,18,Mobile Payment
+C01472,F,20,Cash
+C01473,M,65,Cash
+C01474,M,20,Cash
+C01475,M,37,Mobile Payment
+C01476,M,30,Cash
+C01477,F,65,Cash
+C01478,M,25,Mobile Payment
+C01479,M,22,Cash
+C01480,F,27,Mobile Payment
+C01481,M,51,Credit Card
+C01482,F,66,Credit Card
+C01483,F,62,Mobile Payment
+C01484,M,74,Credit Card
+C01485,M,40,Mobile Payment
+C01486,M,19,Cash
+C01487,M,58,Cash
+C01488,F,70,Credit Card
+C01489,M,40,Cash
+C01490,F,24,Credit Card
+C01491,M,41,Mobile Payment
+C01492,M,73,Mobile Payment
+C01493,M,53,Credit Card
+C01494,M,48,Credit Card
+C01495,M,50,Mobile Payment
+C01496,F,62,Credit Card
+C01497,M,34,Credit Card
+C01498,F,61,Cash
+C01499,M,18,Mobile Payment
+C01500,F,67,Credit Card
+C01501,M,74,Credit Card
+C01502,M,20,Mobile Payment
+C01503,F,67,Mobile Payment
+C01504,F,24,Mobile Payment
+C01505,F,55,Cash
+C01506,F,54,Credit Card
+C01507,M,23,Mobile Payment
+C01508,F,21,Mobile Payment
+C01509,M,23,Mobile Payment
+C01510,M,67,Cash
+C01511,M,65,Credit Card
