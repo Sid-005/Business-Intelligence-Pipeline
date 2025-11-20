@@ -3,7 +3,7 @@ BUSINESS INTELLIGENCE & CUSTOMER RELATIONSHIP MANAGEMENT
 COMPREHENSIVE ANALYSIS REPORT - GROUP 24
 ================================================================================
 
-Date: November 14, 2025
+Date: November 20, 2025
 
 ================================================================================
 EXECUTIVE SUMMARY
@@ -411,6 +411,6 @@ a foundation for sustained long-term growth through data-driven decision making.
 
 ================================================================================
 PREPARED BY: GROUP 24
-DATE: November 14, 2025
+DATE: November 20, 2025
 COURSE: COMP3134 - Business Intelligence and Customer Relationship Management
 ================================================================================
