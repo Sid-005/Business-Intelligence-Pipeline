@@ -248,12 +248,19 @@ plt.show()
 
 # 4.1 Histogram for Age Distribution by Shopping Mall
 fig_demo, ax_demo = plt.subplots(figsize=(14, 7))
-malls = sorted(combined_data["Shopping mall"].unique())
+malls = combined_data["Shopping mall"].unique()
 colors_mall = ['#FF6B6B', '#4ECDC4', '#45B7D1', '#FFA07A']
-mall_colors = {mall: colors_mall[i] for i, mall in enumerate(malls)}
+
+# Prepare data for each mall
+mall_data_list = []
+mall_labels = []
 for mall in malls:
-    mall_data = combined_data[combined_data["Shopping mall"] == mall]["Age"]
-    ax_demo.hist(mall_data, bins=15, alpha=0.65, label=mall, color=mall_colors[mall], edgecolor='black', linewidth=1.2)
+    mall_data_list.append(combined_data[combined_data["Shopping mall"] == mall]["Age"])
+    mall_labels.append(mall)
+
+# Create stacked histogram
+ax_demo.hist(mall_data_list, bins=15, label=mall_labels, color=colors_mall[:len(malls)], 
+             edgecolor='black', linewidth=0.5, stacked=True)
 
 ax_demo.set_xlabel("Age", fontsize=13, fontweight='bold')
 ax_demo.set_ylabel("Frequency (Number of Customers)", fontsize=13, fontweight='bold')

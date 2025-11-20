@@ -9,8 +9,8 @@ README: Running instructions for COMP3134
 
 4. Once the dependencies are installed, run the program with the following instruction
    ```
-   python run initial.py
-   python3 run initial.py
+   python run main.py
+   python3 run main.py
    ```
 
 
