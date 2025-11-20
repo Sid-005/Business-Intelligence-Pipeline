@@ -2,14 +2,16 @@ README: Running instructions for COMP3134
 
 1. Navigate to project directory
 2. Run the following command to install dependencies
-'''
+```
    pip install -r requirements.txt
    pip3 install -r requirements.txt
-'''
+```
 
 4. Once the dependencies are installed, run the program with the following instruction
+   ```
    python run initial.py
    python3 run initial.py
+   ```
 
 
 Alternatively,
